@@ -11,7 +11,7 @@ RUN npm run build
 # 2단계: 실행 (Nginx 환경)
 FROM nginx:stable-alpine
 # 위에서 만든 설정 파일 복사
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY nginx.conf ./etc/nginx/conf.d/default.conf
 # 빌드된 결과물만 Nginx로 복사
 COPY --from=build-stage /app/build /usr/share/nginx/html
 EXPOSE 80
