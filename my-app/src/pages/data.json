@@ -1,0 +1,600 @@
+{
+  "serises": [
+    {
+      "id": 21,
+      "name": "기묘한 이야기",
+      "imgPath": "/serises/기묘한 이야기.jpg",
+      "categori": "SF"
+    },
+    {
+      "id": 23,
+      "name": "브리저튼",
+      "imgPath": "/serises/브리저튼.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 25,
+      "name": "위쳐",
+      "imgPath": "/serises/위쳐.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 27,
+      "name": "종이의 집",
+      "imgPath": "/serises/종이의 집.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 29,
+      "name": "오징어 게임",
+      "imgPath": "/serises/오징어 게임.jpg",
+      "categori": "서바이벌"
+    },
+    {
+      "id": 31,
+      "name": "어둠 속으로",
+      "imgPath": "/serises/어둠 속으로.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 33,
+      "name": "루팡",
+      "imgPath": "/serises/루팡.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 35,
+      "name": "1899",
+      "imgPath": "/serises/1899.jpg",
+      "categori": "미스터리"
+    },
+    {
+      "id": 37,
+      "name": "너의 모든 것",
+      "imgPath": "/serises/너의 모든 것.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 39,
+      "name": "길모어 걸스",
+      "imgPath": "/serises/길모어 걸스.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 41,
+      "name": "그레이스 앤 프랭키",
+      "imgPath": "/serises/그레이스 앤 프랭키.jpg",
+      "categori": "코미디"
+    },
+    {
+      "id": 43,
+      "name": "러브 데스 + 로봇",
+      "imgPath": "/serises/러브 데스 + 로봇.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 45,
+      "name": "엄브렐러 아카데미",
+      "imgPath": "/serises/엄브렐러 아카데미.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 47,
+      "name": "에밀리, 파리에 가다",
+      "imgPath": "/serises/에밀리, 파리에 가다.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 49,
+      "name": "기묘한 이야기: 조나단의 이야기",
+      "imgPath": "/serises/기묘한 이야기: 조나단의 이야기.jpg",
+      "categori": "SF"
+    },
+    {
+      "id": 51,
+      "name": "하우스 오브 카드",
+      "imgPath": "/serises/하우스 오브 카드.jpg",
+      "categori": "정치"
+    },
+    {
+      "id": 53,
+      "name": "베이비",
+      "imgPath": "/serises/베이비.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 55,
+      "name": "굿 걸스",
+      "imgPath": "/serises/굿 걸스.jpg",
+      "categori": "코미디"
+    },
+    {
+      "id": 57,
+      "name": "마인드헌터",
+      "imgPath": "/serises/마인드헌터.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 59,
+      "name": "블랙 미러",
+      "imgPath": "/serises/블랙 미러.jpg",
+      "categori": "디스토피아"
+    },
+    {
+      "id": 61,
+      "name": "데어데블",
+      "imgPath": "/serises/데어데블.jpg",
+      "categori": "히어로"
+    },
+    {
+      "id": 63,
+      "name": "루머의 루머의 루머",
+      "imgPath": "/serises/루머의 루머의 루머.jpg",
+      "categori": "학원"
+    },
+    {
+      "id": 65,
+      "name": "트래블러스",
+      "imgPath": "/serises/트래블러스.jpg",
+      "categori": "SF"
+    },
+    {
+      "id": 67,
+      "name": "디 아이돌",
+      "imgPath": "/serises/디 아이돌.jpg",
+      "categori": "음악"
+    },
+    {
+      "id": 69,
+      "name": "지니 & 조지아",
+      "imgPath": "/serises/지니 & 조지아.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 71,
+      "name": "블러드라인",
+      "imgPath": "/serises/블러드라인.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 73,
+      "name": "마르코 폴로",
+      "imgPath": "/serises/마르코 폴로.jpg",
+      "categori": "역사"
+    },
+    {
+      "id": 75,
+      "name": "트루 스토리",
+      "imgPath": "/serises/트루 스토리.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 77,
+      "name": "셀레나: 더 시리즈",
+      "imgPath": "/serises/셀레나: 더 시리즈.jpg",
+      "categori": "음악"
+    },
+    {
+      "id": 79,
+      "name": "파인딩 오하나",
+      "imgPath": "/serises/파인딩 오하나.jpg",
+      "categori": "모험"
+    },
+    {
+      "id": 81,
+      "name": "굿 닥터",
+      "imgPath": "/serises/굿 닥터.jpg",
+      "categori": "의학"
+    },
+    {
+      "id": 83,
+      "name": "퀸스 갬빗",
+      "imgPath": "/serises/퀸스 갬빗.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 85,
+      "name": "무브 투 헤븐",
+      "imgPath": "/serises/무브 투 헤븐.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 87,
+      "name": "내면의 세계",
+      "imgPath": "/serises/내면의 세계.jpg",
+      "categori": "다큐"
+    },
+    {
+      "id": 89,
+      "name": "워리어 넌",
+      "imgPath": "/serises/워리어 넌.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 91,
+      "name": "살인자에게",
+      "imgPath": "/serises/살인자에게.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 93,
+      "name": "서클",
+      "imgPath": "/serises/서클.jpg",
+      "categori": "게임"
+    },
+    {
+      "id": 95,
+      "name": "슬기로운 감빵생활",
+      "imgPath": "/serises/슬기로운 감빵생활.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 97,
+      "name": "아케인",
+      "imgPath": "/serises/아케인.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 99,
+      "name": "맨헌트",
+      "imgPath": "/serises/맨헌트.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 101,
+      "name": "보그댄서",
+      "imgPath": "/serises/보그댄서.jpg",
+      "categori": "댄스"
+    },
+    {
+      "id": 103,
+      "name": "스위트 투스",
+      "imgPath": "/serises/스위트 투스.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 105,
+      "name": "레인",
+      "imgPath": "/serises/레인.jpg",
+      "categori": "SF"
+    },
+    {
+      "id": 107,
+      "name": "폴링 인 러브",
+      "imgPath": "/serises/폴링 인 러브.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 109,
+      "name": "레버리지",
+      "imgPath": "/serises/레버리지.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 111,
+      "name": "콜 미 캣",
+      "imgPath": "/serises/콜 미 캣.jpg",
+      "categori": "코미디"
+    },
+    {
+      "id": 113,
+      "name": "힐 하우스의 유령",
+      "imgPath": "/serises/힐 하우스의 유령.jpg",
+      "categori": "공포"
+    },
+    {
+      "id": 115,
+      "name": "디스인챈트",
+      "imgPath": "/serises/디스인챈트.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 117,
+      "name": "낙원의 밤",
+      "imgPath": "/serises/낙원의 밤.jpg",
+      "categori": "누아르"
+    },
+    {
+      "id": 119,
+      "name": "마스터 오브 제로",
+      "imgPath": "/serises/마스터 오브 제로.jpg",
+      "categori": "코미디"
+    }
+  ],
+  "movies": [
+    {
+      "id": 22,
+      "name": "버드 박스",
+      "imgPath": "/movies/버드 박스.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 24,
+      "name": "아이리시맨",
+      "imgPath": "/movies/아이리시맨.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 26,
+      "name": "로마",
+      "imgPath": "/movies/로마.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 28,
+      "name": "6 언더그라운드",
+      "imgPath": "/movies/6 언더그라운드.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 30,
+      "name": "익스트랙션",
+      "imgPath": "/movies/익스트랙션.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 32,
+      "name": "더 그레이 맨",
+      "imgPath": "/movies/더 그레이 맨.jpg",
+      "categori": "첩보"
+    },
+    {
+      "id": 34,
+      "name": "레드 노티스",
+      "imgPath": "/movies/레드 노티스.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 36,
+      "name": "에놀라 홈즈",
+      "imgPath": "/movies/에놀라 홈즈.jpg",
+      "categori": "미스터리"
+    },
+    {
+      "id": 38,
+      "name": "피노키오",
+      "imgPath": "/movies/피노키오.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 40,
+      "name": "퍼펙트 데이트",
+      "imgPath": "/movies/퍼펙트 데이트.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 42,
+      "name": "노웨어",
+      "imgPath": "/movies/노웨어.jpg",
+      "categori": "서바이벌"
+    },
+    {
+      "id": 44,
+      "name": "더 킬러",
+      "imgPath": "/movies/더 킬러.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 46,
+      "name": "프랙처드",
+      "imgPath": "/movies/프랙처드.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 48,
+      "name": "트리플 프론티어",
+      "imgPath": "/movies/트리플 프론티어.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 50,
+      "name": "킬러 패러독스",
+      "imgPath": "/movies/킬러 패러독스.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 52,
+      "name": "디글로리",
+      "imgPath": "/movies/디글로리.jpg",
+      "categori": "복수극"
+    },
+    {
+      "id": 54,
+      "name": "더 플랫폼",
+      "imgPath": "/movies/더 플랫폼.jpg",
+      "categori": "디스토피아"
+    },
+    {
+      "id": 56,
+      "name": "스펜서 컨피덴셜",
+      "imgPath": "/movies/스펜서 컨피덴셜.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 58,
+      "name": "서든 무브",
+      "imgPath": "/movies/서든 무브.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 60,
+      "name": "모글리",
+      "imgPath": "/movies/모글리.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 62,
+      "name": "스노우피어서",
+      "imgPath": "/movies/스노우피어서.jpg",
+      "categori": "SF"
+    },
+    {
+      "id": 64,
+      "name": "타이거 킹",
+      "imgPath": "/movies/타이거 킹.jpg",
+      "categori": "다큐"
+    },
+    {
+      "id": 66,
+      "name": "디깅",
+      "imgPath": "/movies/디깅.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 68,
+      "name": "힐빌리의 노래",
+      "imgPath": "/movies/힐빌리의 노래.jpg",
+      "categori": "드라마"
+    },
+    {
+      "id": 70,
+      "name": "트라이얼 오브 더 시카고 7",
+      "imgPath": "/movies/트라이얼 오브 더 시카고 7.jpg",
+      "categori": "법정"
+    },
+    {
+      "id": 72,
+      "name": "클라우스",
+      "imgPath": "/movies/클라우스.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 74,
+      "name": "더 미첼 가족과 기계 전쟁",
+      "imgPath": "/movies/더 미첼 가족과 기계 전쟁.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 76,
+      "name": "투올드 포 페어리테일",
+      "imgPath": "/movies/투올드 포 페어리테일.jpg",
+      "categori": "가족"
+    },
+    {
+      "id": 78,
+      "name": "더 위쳐: 나이트 오브 더 울프",
+      "imgPath": "/movies/더 위쳐: 나이트 오브 더 울프.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 80,
+      "name": "니모나",
+      "imgPath": "/movies/니모나.jpg",
+      "categori": "애니메이션"
+    },
+    {
+      "id": 82,
+      "name": "두번째 남편",
+      "imgPath": "/movies/두번째 남편.jpg",
+      "categori": "멜로"
+    },
+    {
+      "id": 84,
+      "name": "데이트와의 전쟁",
+      "imgPath": "/movies/데이트와의 전쟁.jpg",
+      "categori": "코미디"
+    },
+    {
+      "id": 86,
+      "name": "존 헨리",
+      "imgPath": "/movies/존 헨리.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 88,
+      "name": "런",
+      "imgPath": "/movies/런.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 90,
+      "name": "나는 당신에게 반하지 않았다",
+      "imgPath": "/movies/나는 당신에게 반하지 않았다.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 92,
+      "name": "어셋",
+      "imgPath": "/movies/어셋.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 94,
+      "name": "더 커뮤터",
+      "imgPath": "/movies/더 커뮤터.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 96,
+      "name": "폴라",
+      "imgPath": "/movies/폴라.jpg",
+      "categori": "액션"
+    },
+    {
+      "id": 98,
+      "name": "아웃로 킹",
+      "imgPath": "/movies/아웃로 킹.jpg",
+      "categori": "역사"
+    },
+    {
+      "id": 100,
+      "name": "모던 러브",
+      "imgPath": "/movies/모던 러브.jpg",
+      "categori": "로맨스"
+    },
+    {
+      "id": 102,
+      "name": "타임 투 헌트",
+      "imgPath": "/movies/타임 투 헌트.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 104,
+      "name": "시즌 오브 더 위치",
+      "imgPath": "/movies/시즌 오브 더 위치.jpg",
+      "categori": "판타지"
+    },
+    {
+      "id": 106,
+      "name": "베키",
+      "imgPath": "/movies/베키.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 108,
+      "name": "허슬",
+      "imgPath": "/movies/허슬.jpg",
+      "categori": "스포츠"
+    },
+    {
+      "id": 110,
+      "name": "더 테이크오버",
+      "imgPath": "/movies/더 테이크오버.jpg",
+      "categori": "스릴러"
+    },
+    {
+      "id": 112,
+      "name": "더 레코닝",
+      "imgPath": "/movies/더 레코닝.jpg",
+      "categori": "공포"
+    },
+    {
+      "id": 114,
+      "name": "피버 드림",
+      "imgPath": "/movies/피버 드림.jpg",
+      "categori": "미스터리"
+    },
+    {
+      "id": 116,
+      "name": "제인 도",
+      "imgPath": "/movies/제인 도.jpg",
+      "categori": "범죄"
+    },
+    {
+      "id": 118,
+      "name": "더 패키지",
+      "imgPath": "/movies/더 패키지.jpg",
+      "categori": "코미디"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.App {
+  background-color: black;
+}
+
+.TopBar{
+  padding: 50px;
+  padding-left: 20px;
+  text-align: left;
+  display: flex;
+  justify-content: start;
+  align-items:center;
+  margin-right: 400px;
+}
+
+.Menu{
+  text-decoration: none;
+  color: azure;
+}
+
+body{
+  background-color: black;
+}
+
+.App-logo {
+  margin: 0px;
+  margin-right: 100px;
+  width: 250px;
+  height: auto;
+  display: inline;
+}
+
+h2{
+  display: inline;
+  flex: 1;
+}
+
+
+

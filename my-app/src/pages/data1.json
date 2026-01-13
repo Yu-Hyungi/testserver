@@ -1,0 +1,27 @@
+{
+    "serises": [
+      { "id": 1, "name": "기묘한 이야기", "imgPath": "/serises/기묘한 이야기.jpg" },
+      { "id": 3, "name": "브리저튼", "imgPath": "/serises/브리저튼.jpg" },
+      { "id": 5, "name": "더 크라운", "imgPath": "/serises/더 크라운.jpg" },
+      { "id": 7, "name": "위쳐", "imgPath": "/serises/위쳐.jpg" },
+      { "id": 9, "name": "종이의 집", "imgPath": "/serises/종이의 집.jpg" },
+      { "id": 11, "name": "오징어 게임", "imgPath": "/serises/오징어 게임.jpg" },
+      { "id": 13, "name": "어둠 속으로", "imgPath": "/serises/어둠 속으로.jpg" },
+      { "id": 15, "name": "루팡", "imgPath": "/serises/루팡.jpg" },
+      { "id": 17, "name": "마녀사냥꾼 로빈", "imgPath": "/serises/마녀사냥꾼 로빈.jpg" },
+      { "id": 19, "name": "1899", "imgPath": "/serises/1899.jpg" }
+    ],
+    "movies": [
+      { "id": 2, "name": "더 그레이 맨", "imgPath": "/movies/더 그레이 맨.jpg" },
+      { "id": 4, "name": "레드 노티스", "imgPath": "/movies/레드 노티스.jpg" },
+      { "id": 6, "name": "익스트랙션", "imgPath": "/movies/익스트랙션.jpg" },
+      { "id": 8, "name": "버드 박스", "imgPath": "/movies/버드 박스.jpg" },
+      { "id": 10, "name": "6 언더그라운드", "imgPath": "/movies/6 언더그라운드.jpg" },
+      { "id": 12, "name": "피노키오", "imgPath": "/movies/피노키오.jpg" },
+      { "id": 14, "name": "내가 사랑했던 모든 남자들에게", "imgPath": "/movies/내가 사랑했던 모든 남자들에게.jpg" },
+      { "id": 16, "name": "에놀라 홈즈", "imgPath": "/movies/에놀라 홈즈.jpg" },
+      { "id": 18, "name": "사랑의 불시착", "imgPath": "/movies/사랑의 불시착.jpg" },
+      { "id": 20, "name": "퍼펙트 데이트", "imgPath": "/movies/퍼펙트 데이트.jpg" }
+    ]
+  }
+  
